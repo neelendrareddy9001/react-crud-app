@@ -1,5 +1,5 @@
 import React from 'react';
-iport {Link} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import {Navbar, Nav, NavItem, NavbarBrand, Container } from 'reactstrap';
 import './Heading.css';
 
